@@ -1,0 +1,1 @@
+📃 Description Projek ini adalah merupakan message-broker-consumer untuk project openmusic-api sehingga bisa digunakan untuk mengirim pesan otomatis yang berisikan file daftar playlist dalam bentuk JSON ke email yang terdaftar.
